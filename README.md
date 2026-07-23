@@ -71,15 +71,14 @@ Repository: https://github.com/jameslu06/verdal-tamers-journey
 
 ---
 
-### Census Income Prediction Using Machine Learning
+### ML Capstone: Census Income Prediction Using Machine Learning
 
 **Python | Pandas | NumPy | Scikit-learn | TensorFlow | Keras**
 
 Developed a machine learning classification pipeline to predict whether an individual's annual income exceeds $50K using demographic and employment data.
 
 **Implemented:**
-- Data preprocessing
-- Feature engineering
+- Data preprocessing and feature engineering
 - Exploratory data analysis
 - Logistic Regression
 - Decision Trees
@@ -87,15 +86,16 @@ Developed a machine learning classification pipeline to predict whether an indiv
 - Model evaluation using accuracy and F1 score
 
 **Results:**
-Achieved approximately 85% accuracy while comparing traditional machine learning approaches with neural network models.
+Achieved approximately 85% accuracy and compared traditional machine learning models with neural network approaches to analyze model performance.
 
 **Skills Demonstrated:**
 - Machine learning workflow
-- Data analysis
+- Data preparation
 - Model development
 - Performance evaluation
 
-Repository: Private
+*Academic capstone project (repository not publicly available).*
+
 ---
 
 ## Contact
