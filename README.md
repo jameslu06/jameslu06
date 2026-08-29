@@ -4,9 +4,9 @@ Computer Engineering student at The City College of New York (CCNY) pursuing opp
 
 I see technology as a puzzle - whether it is writing code, designing systems, or understanding how hardware and software work together. I enjoy breaking down complex problems into smaller pieces and building solutions that turn ideas into practical technology.
 
-Through internships, coursework, and personal projects, I have gained hands-on experience in software development, web development, machine learning, and data analysis. I have worked with C++, Java, JavaScript, Python, and various tools for building and evaluating software systems.
+As a Computer Engineering student at The City College of New York, I have 2+ years of experience in software development, web development, and technical projects. Through internships and hands-on experience, I have worked with C++, Java, JavaScript, Python, machine learning, and data analysis.
 
-Currently, I am a Software Engineering Intern at World Wide Technology, where I collaborate on improving HR technology platforms, supporting system enhancements, and translating user needs into technical solutions.
+Currently an AI Strategy and Enablement Intern at World Wide Technology, where I work with developers, analysts, and HR teams to use AI and automation to improve processes and make day-to-day work more efficient. I help find areas where AI can simplify tasks, streamline workflows, and turn business needs into practical technical solutions.
 
 I am passionate about building software, exploring AI, and creating technology that solves real-world problems.
 
